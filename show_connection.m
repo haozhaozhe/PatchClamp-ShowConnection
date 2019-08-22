@@ -3,6 +3,7 @@ function show_connection()
     % This function requres to download the class @HEKA_Importer 
     % https://github.com/ChristianKeine/HEKA_Patchmaster_Importer
     % The function plot traces of the cell stimulated (Golgi) and recorded (Granule)
+    % The file name has to follow the exact same format datecX-cY.dat, where X is the cell stimulated (GoC) and Y is the cell recorded (GC)
     % written by Zhaozhe Hao from Dr Xiaolong Jiang lab, Aug 07 2019
 	
 %filePath = 'E:\Dropbox\Jiang_lab\ConnectionCode\';
