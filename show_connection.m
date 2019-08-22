@@ -1,9 +1,8 @@
 function show_connection()
     %% function to plot traces to show connections from Golgi to Granule Cells
-	% This function requres to download the class @HEKA_Importer 
+    % This function requres to download the class @HEKA_Importer 
     % https://github.com/ChristianKeine/HEKA_Patchmaster_Importer
-    % a current version of HEKA_Patchmaster_Importer also uploaded
-    % The function plot trace from the cell stimulated (Golgi) and recorded (Granule)
+    % The function plot traces of the cell stimulated (Golgi) and recorded (Granule)
     % written by Zhaozhe Hao from Dr Xiaolong Jiang lab, Aug 07 2019
 	
 %filePath = 'E:\Dropbox\Jiang_lab\ConnectionCode\';
