@@ -6,7 +6,7 @@ Running this function requires to download the class @HEKA_Importer from https:/
 
 The function plots traces from the cell stimulated (Golgi cell GoC) and recorded cell (Granule Cell, GC)
 
-Written by Zhaozhe Hao in Dr Xiaolong Jiang lab, Aug 07 2019
+Written by Zhaozhe Hao in Dr Xiaolong Jiang lab, Aug 07, 2019
 
 ## How to use:
  
