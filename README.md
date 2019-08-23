@@ -18,6 +18,7 @@ Try with 190806s2c2-c7.dat
  
 ## Input: 
 No input necessary. Select the file in the file dialog box.
+The file name has to follow the exact same format datecX-cY.dat, where X is the cell stimulated (GoC) and Y is the cell recorded (GC)
 
 ## Output:
 No output. The plotted trace will automatically saved under the same directory.
